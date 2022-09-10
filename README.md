@@ -1,7 +1,6 @@
-## Prazer, sou um estudante de infomática e venho me dedicando a aprender e aperfeiçoar meus conhecimentos. 
+## Prazer, sou um estudante de infomática e venho me dedicando a aprender e aperfeiçoar meus conhecimentos.
 <div align="center">
   <a href="https://github.com/Isaac-Sousa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Isaac-Sousa&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isaac-Sousa&layout=compact&langs_count=7&theme=merko"/>
 </div>
 <div style="display: inline_block"><br>
